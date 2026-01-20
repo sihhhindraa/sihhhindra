@@ -67,6 +67,7 @@
 ## 🌐 Top Languages
 
 <p align="center">
+  <b>⭐ Most Used Language: C++</b><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihhhindra&layout=compact&theme=radical" />
 </p>
 
@@ -91,3 +92,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
+
