@@ -1,87 +1,94 @@
-<h2 align="center">Hii! I'm Indrajeet Singh 👋</h2>
-
+<!-- 🌈 COLORFUL HEADER -->
 <p align="center">
-  C++ Developer | Problem Solver | ML & Data Science Enthusiast
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=INDRAJEET%20SINGH&fontSize=42&fontAlignY=35&animation=twinkling" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/sihhhindra">GitHub</a> •
-  <a href="https://www.linkedin.com/in/indrajeet-singh-b981bb287/">LinkedIn</a> •
-  <a href="https://leetcode.com/u/sihhh_indraa/">LeetCode</a> •
-  <a href="mailto:sihhhindra@gmail.com">Email</a>
-</p>
-
----
-
-## About Me
-
-I am a student developer with a strong interest in **C++**, **problem solving**, and  
-**machine learning**. I enjoy solving logic-intensive problems and building  
-data-driven solutions using Python.
-
-- Strong foundation in **C++ & Data Structures**
-- Focused on **problem solving and competitive programming**
-- Interested in **Machine Learning & Data Science**
-- Frontend experience with **HTML, CSS, JavaScript**
-
----
-
-## Skills
-
-**Languages**  
-C++ (Primary), C, Python, JavaScript
-
-**Core Concepts**  
-Data Structures & Algorithms, Problem Solving, Logical Thinking
-
-**Machine Learning & Data Science**  
-NumPy, Pandas, Matplotlib, Basic ML Models
-
-**Web Technologies**  
-HTML, CSS, JavaScript
-
----
-
-## Projects
-
-### 🔹 Machine Learning Project
-- Built prediction models using Python
-- Performed data preprocessing and visualization
-- Tools: NumPy, Pandas, Matplotlib
-
-### 🔹 Data Analysis Project
-- Cleaned and analyzed datasets to extract insights
-- Created visualizations for trend analysis
-
-### 🔹 Web Development Project
-- Built responsive frontend interfaces
-- Used HTML, CSS, and JavaScript
-
-*(Project links will be added as repositories grow)*
-
----
-
-## GitHub Stats
+<h3 align="center">🚀 Developer | Problem Solver | ML & Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sihhhindra&show_icons=true&theme=default" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F78A00&size=23&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;C+%7C+C%2B%2B+%7C+Python+Developer;Machine+Learning+%7C+Data+Science;Frontend+Web+Developer" />
 </p>
 
 ---
 
-## Competitive Programming
+## 👨‍💻 About Me
 
-- Primary Language: **C++**
-- Active on **LeetCode**
-- Focus on improving **DSA & problem-solving skills**
+- 🎓 Student & Aspiring Software Engineer  
+- 🧠 Strong in **Problem Solving & Logic Building**
+- 🤖 Interested in **Machine Learning & Data Science**
+- 💻 Programming in **C, C++, Python**
+- 🌐 Web skills: **HTML, CSS, JavaScript**
+- 🚀 Always curious to learn new technologies
 
 ---
 
-## Contact
+## 🛠️ Tech Stack
 
-- 📧 Email: **sihhhindra@gmail.com**
-- 💼 LinkedIn: **Indrajeet Singh**
-- 💻 GitHub: **sihhhindra**
-- 🧠 LeetCode: **sihhh_indraa**
+### 🔹 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+</p>
 
+### 🔹 Web Technologies
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
+### 🔹 Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Science-9C27B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
+
+### 🔹 Core Skills
+<p>
+  <img src="https://img.shields.io/badge/Problem%20Solving-FF5722?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-673AB7?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sihhhindra&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=sihhhindra&theme=radical" width="48%" />
+</p>
+
+---
+
+## 🌐 Top Languages
+
+<p align="center">
+  <b>⭐ Most Used Language: C++</b><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihhhindra&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/sihhhindra">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/indrajeet-singh-b981bb287/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:sihhhindra@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
